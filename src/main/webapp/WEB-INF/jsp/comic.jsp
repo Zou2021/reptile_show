@@ -14,6 +14,8 @@
     }
     table tr td {
         border: solid 1px #222;
+        padding: 15px 15px 15px 15px;
+        text-align: center;
     }
 </style>
 <body>

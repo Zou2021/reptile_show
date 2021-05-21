@@ -28,7 +28,7 @@ public class ReptileTest {
     public void selectTest() {
         System.out.println(("----- selectAll method test ------"));
         List<Comic> list = comicMapper.selectList(null);
-        Assert.assertEquals(193, list.size());
+        Assert.assertEquals(1463, list.size());
         list.forEach(System.out::println);
     }
 }

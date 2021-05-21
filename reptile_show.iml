@@ -83,10 +83,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.6" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:6.0.5" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.10" level="project" />
-    <orderEntry type="library" name="Maven: junit:junit:4.13.2" level="project" />
-    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:2.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-test:2.4.5" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-test:5.3.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.4.5" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.4" level="project" />
@@ -110,5 +106,9 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish:jakarta.el:3.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.45" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-test:2.4.5" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-test:5.3.6" level="project" />
   </component>
 </module>
